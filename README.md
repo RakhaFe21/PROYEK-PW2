@@ -168,37 +168,6 @@ database.default.database = your-db-name
 database.default.username = your-db-user
 database.default.password = your-db-password
 encryption.key = your-32-char-key
-```
 
-## 🤝 Contributing
-
-1. Fork repository
-2. Buat feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buat Pull Request
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📞 Support
-
-- **Email**: [your-email@example.com]
-- **Documentation**: [link-to-docs]
-- **Issues**: [GitHub Issues]
-
-## 🗺️ Roadmap
-
-- [ ] API RESTful endpoints
-- [ ] User authentication system
-- [ ] Article categories/tags
-- [ ] Rich text editor
-- [ ] File upload system
-- [ ] Email notifications
-- [ ] Advanced search functionality
-- [ ] Multi-language support
-
----
 
 **Dibuat dengan ❤️ menggunakan CodeIgniter 4**
